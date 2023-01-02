@@ -1,6 +1,7 @@
 # README-Generator-09 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+DEMO: https://drive.google.com/file/d/1-zWxwWN2PLvSsH4KOSwruF-Xg1QNFA5w/view
 
 ## Description
 - Creating a project to generate a readme based on user input.
@@ -21,7 +22,7 @@
 - First, you have to open up the terminal in the corresponding project file location, 
 - Second, you must run "npm i" in the terminal to install the inquirer part of npm. 
 - Third, you must run the program by running  "node index.js" in the terminal. 
-
+- DEMO VIDEO https://drive.google.com/file/d/1-zWxwWN2PLvSsH4KOSwruF-Xg1QNFA5w/view
 ## Usage
 npm(inquirer)
 
