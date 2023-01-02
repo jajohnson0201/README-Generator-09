@@ -16,9 +16,9 @@ if(license){return `License: https://opensource.org/licenses/${license}`
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   if(license){ return `## License
- ${license}
- ${renderLicenseBadge(license)}
- ${renderLicenseLink(license)}`
+ - ${license}
+ - ${renderLicenseBadge(license)}
+ - ${renderLicenseLink(license)}`
 }else{return ""}
 }
 
@@ -31,10 +31,10 @@ return  `# ${data.title}
 ${renderLicenseBadge(data.license)}
 
 ## Description
--${data.description1}
--${data.description2}
--${data.description3}
--${data.description4}
+- ${data.description1}
+- ${data.description2}
+- ${data.description3}
+- ${data.description4}
 
 ## Table of Contents
 - [Installation](#Installation)
@@ -60,10 +60,10 @@ ${data.contribution}
 ${data.tests}
 
 ## Questions
-you can find me @
-${data.email}
-${data.github}
-for all questions
+- you can find me @
+- ${data.email}
+- ${data.github}
+- for all questions
 `;
 }
 
