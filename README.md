@@ -31,7 +31,7 @@ npm(inquirer)
  - License: https://opensource.org/licenses/MIT
 
 ## Contribution
-check the [Questions](#Questions) section for my info!
+check the [Questions](#Questions) section for my info! Also, reach out and contribute to the project yourself or inform on issues you may have found! 
 
 ## Tests
 testing has been done with creating this README.md file! And smaller related tests with the inquirer extension of npm.

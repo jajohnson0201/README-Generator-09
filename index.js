@@ -27,7 +27,7 @@ const questions = [
     name: 'description4',
 },
 {type: 'input',
-    message: 'Describe the installation process.',
+    message: 'Describe the installation process.(seperate with "-" for bullet points.)',
     name: 'installation',
 },
 {type: 'input',
