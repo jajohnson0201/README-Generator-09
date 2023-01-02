@@ -72,7 +72,7 @@ fs.writeFile(fileName, md, (err) =>
 function init() {
 inquirer
 .prompt(questions).then((data)=>{
-    writeToFile("sampleREADME.MD",data );
+    writeToFile("sampleREADME.md",data );
 })}
 // Function call to initialize app
 init();
