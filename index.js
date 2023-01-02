@@ -31,7 +31,7 @@ const questions = [
     name: 'installation',
 },
 {type: 'input',
-    message: 'Enter things used to make the project(links, images...).',
+    message: 'Enter things used to make the project(links, images...)',
     name: 'usage',
 },
 {type: 'input',
